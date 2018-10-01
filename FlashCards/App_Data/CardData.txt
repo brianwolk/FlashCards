@@ -1,0 +1,10 @@
+T-SQL
+Expands on SQL standard to include procedural programming, local variables, and support functions for processing
+Statements for declaring and setting variables
+DECLARE, SET and SELECT
+Statements for flow control
+BEGIN, END, BREAK, CONTINUE, GOTO, IF, ELSE, RETURN, WAITFOR, WHILE
+Change to DELETE and UPDATE from SQL
+allows a FROM clause
+Other Expansions from SQL
+A faster BULK statement, TRY CATCH to simplify error checking
